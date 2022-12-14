@@ -26,6 +26,7 @@ machinePic.style = "width: 250px;"
 button1.style = "text-align: center; font-size: larger; margin: 10px;cursor:pointer;background-color: #4CAF50;color: white;";
 button2.style = "text-align: center; font-size: larger; margin: 10px;cursor:pointer;background-color: #f44336;color: white;";
 //finalTime.style = "resize: none; font-size: large";
+finalTime.style = "width: 75%; font-size: large";
 
 
 //Set text
